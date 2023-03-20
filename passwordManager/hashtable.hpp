@@ -1,5 +1,4 @@
 //Name:Yassar Rich
-//Date: 07/16/2022
 #ifndef HASHTABLE_HPP
 #define HASHTABLE_HPP
 
