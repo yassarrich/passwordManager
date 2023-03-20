@@ -1,5 +1,3 @@
-//Name:Yassar Rich
-//Date: 07/16/2022
 #include <iostream>
 #include <string>
 #include <utility>
