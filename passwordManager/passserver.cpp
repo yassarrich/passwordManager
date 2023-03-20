@@ -1,5 +1,4 @@
 //Name:Yassar Rich
-//Date: 07/16/2022
 #include "passserver.h"
 #include "hashtable.h"
 #include <cstring>
